@@ -28,12 +28,22 @@ VIEW THE PAGE
 
 After deploy this page, view in desktop, This is not optimized for the media screens.
 
+Github SSH key:
+===============
+git@github.com:priyakumi/Recfactoring-the-website.git
 
+ 
+ Deployed webpage:
+=================
+
+Your site is live at:
+ https://priyakumi.github.io/Recfactoring-the-website/
 
 
 Screen-Shot:
 ===========
-![refactored page screenshot](assets/images/sceenshot.png)
+![screen-shot of the webpage](assets/images/mypage-screenshot.png)
+
 
  
 
