@@ -28,10 +28,10 @@ VIEW THE PAGE
 
 After deploy this page, view in desktop, This is not optimized for the media screens.
 
-Github SSH key:
+Github page
 ===============
-git@github.com:priyakumi/Recfactoring-the-website.git
 
+https://github.com/priyakumi/Recfactoring-the-website
  
  Deployed webpage:
 =================
